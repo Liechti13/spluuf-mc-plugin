@@ -1,0 +1,6 @@
+name: Spluuf
+version: 0.1.0
+author: Christoph & Tim
+main: ch.ct.spluuf.Main
+commands:
+
